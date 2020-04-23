@@ -8,6 +8,10 @@ Tractorbeam is a Docker container that can backup data from a variety of sources
 
 (Please add a table of contents here.)
 
+## Releases
+
+The latest release is on the releases page.
+
 ## Multi-tier backups
 
 This container also creates "multi-tier" backups in a best-practice fashion. Instead of creating only a linear series of backups, Tractorbeam creates a directory structure:
